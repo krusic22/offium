@@ -1,0 +1,5 @@
+name: ${project.name}
+main: com.krusic22.offium.Offium
+version: ${project.version}
+author: krusic22
+description: ${project.description}
